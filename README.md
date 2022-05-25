@@ -9,4 +9,5 @@ Contributions are welcomed.
 
 
 
-
+## Comment:
+The whole lecture is now available at: https://sbu-python-class.github.io/python-science
